@@ -108,7 +108,7 @@ Implementar validações no front-end e no back-end.
 ### Página de Lista de Cursos:
 
 * Criar uma página que exiba todos os cursos.
-A* dicionar funcionalidade para excluir cursos e atualizar a lista.
+* dicionar funcionalidade para excluir cursos e atualizar a lista.
 ### Testes a serem realizados
 * Testar o formulário para garantir que todos os campos são validados corretamente.
 * Verificar se a lista de cursos é exibida corretamente e se a exclusão de cursos funciona como esperado.
