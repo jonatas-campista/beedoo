@@ -1,4 +1,4 @@
-Feature: cadastro de cursos,visualizacao,exclusao 
+Feature: cadastro de cursos
 
   Scenario: Cadastro de um novo curso com sucesso
     Given que eu estou na página de cadastrar cursos

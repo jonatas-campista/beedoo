@@ -1,4 +1,4 @@
-Feature: cadastro de cursos,visualizacao,exclusao 
+Feature: exclusao de cursos
 
   Scenario: Exclusão de um curso com sucesso
   Given que eu estou na página de lista de cursos
