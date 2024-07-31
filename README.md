@@ -6,7 +6,7 @@ relatorio de bugs, vulnerabilidades e avaliações : https://docs.google.com/doc
 
 ### melhorias a serem aplicadas:
 
-* Validação de Campos Obrigatórios: Garantir que todos os campos obrigatórios no formulário de cadastro de cursos sejam devidamente validados e que o formulário não possa ser submetido sem que esses campos estejam preenchidos.
+* Validação de Campos Obrigatórios: Adicionar validação de campos obrigatórios no formulário de cadastro de cursos sejam devidamente validados e que o formulário não possa ser submetido sem que esses campos estejam preenchidos.
 
 * Validação de Datas:
 
