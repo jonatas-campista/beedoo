@@ -4,7 +4,7 @@ cenarios de testes: https://docs.google.com/document/d/1eHRaNhbwGdJSRHPXSG9-C0Fl
 
 relatorio de bugs, vulnerabilidades e avaliações : https://docs.google.com/document/d/10SEXQSl8G-iaWHVzmrxDvDCbk-mxAnThTUB9WaA9D4o/edit?usp=sharing
 
-### melhorias a serem aplicadas:
+### Possiveis melhorias para a aplicação:
 
 * Validação de Campos Obrigatórios: Adicionar validação de campos obrigatórios no formulário de cadastro de cursos sejam devidamente validados e que o formulário não possa ser submetido sem que esses campos estejam preenchidos.
 
