@@ -45,11 +45,11 @@ Como um usuário da plataforma, eu quero visualizar a lista de cursos disponíve
 * Deve ser exibida uma mensagem de confirmação após a exclusão do curso.
 
 # Documentação da User Story
-##Contexto da User Story
-###Cadastro de Novos Cursos
+## Contexto da User Story
+### Cadastro de Novos Cursos
 * Objetivo: Permitir que administradores possam cadastrar novos cursos na plataforma para oferecer novos conteúdos aos usuários.
 
-####Motivação:
+#### Motivação:
 
 * Facilitar a inclusão de novos cursos para manter o catálogo atualizado.
 * Garantir que o processo de cadastro de cursos seja eficiente e que todos os campos necessários sejam preenchidos corretamente.
@@ -73,17 +73,17 @@ Motivação:
 * Tipo de curso: Campo para definir se o curso é presencial ou remoto.
 * Endereço: campo opcional para informar o endereço
   
-####Validações:
+#### Validações:
 
 * Campos obrigatórios não podem estar vazios.
 * Formatos de data e URL devem ser validados para garantir a integridade dos dados.
 * O número de vagas deve ser um valor positivo.
   
-######Feedback do Usuário:
+###### Feedback do Usuário:
 * Mensagem de confirmação exibida após o cadastro para informar que o curso foi cadastrado com sucesso.
 * Decisões para a Visualização da Lista de Cursos
      
-###Página de Lista de Cursos:
+### Página de Lista de Cursos:
 
 * Exibição de todos os cursos disponíveis
 * Interface amigável para facilitar a navegação e escolha dos cursos.
@@ -91,7 +91,7 @@ Motivação:
 
 * Permitir a exclusão de cursos da lista.
 * Mensagem de confirmação após a exclusão para garantir que a ação foi concluída com sucesso.
-####Critérios de Aceitação
+#### Critérios de Aceitação
 * Cadastro de Novos Cursos
 * Formulário com todos os campos obrigatórios deve estar disponível.
 * Validações devem ser aplicadas corretamente.
@@ -105,11 +105,11 @@ Criação do Formulário:
 
 Desenvolver um formulário para o cadastro de cursos com todos os campos listados.
 Implementar validações no front-end e no back-end.
-###Página de Lista de Cursos:
+### Página de Lista de Cursos:
 
 * Criar uma página que exiba todos os cursos.
 A* dicionar funcionalidade para excluir cursos e atualizar a lista.
-###Testes a serem realizados
+### Testes a serem realizados
 * Testar o formulário para garantir que todos os campos são validados corretamente.
 * Verificar se a lista de cursos é exibida corretamente e se a exclusão de cursos funciona como esperado.
 
