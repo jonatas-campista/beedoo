@@ -8,31 +8,21 @@ relatorio de bugs, vulnerabilidades e avaliações : https://docs.google.com/doc
 
 * Validação de Campos Obrigatórios: Adicionar validação de campos obrigatórios no formulário de cadastro de cursos sejam devidamente validados e que o formulário não possa ser submetido sem que esses campos estejam preenchidos.
 
-* Validação de Datas:
-
- - Data de Início e Data de Fim: Implementar uma validação que impeça a submissão do formulário se a data de início for posterior à data de fim.
+* Validação de Datas: Data de Início e Data de Fim: Implementar uma validação que impeça a submissão do formulário se a data de início for posterior à data de fim.
    
 * Validação da Quantidade de Vagas: Adicionar uma validação que impeça a inserção de números negativos no campo de quantidade de vagas, aceitando apenas valores positivos ou zero.
 
-* Validação de URLs e Links:
-
- - Campos de URL e Link: Garantir que as URLs inseridas sejam válidas, evitando que links inválidos sejam aceitos pelo formulário.
+* Validação de URLs e Links: Campos de URL e Link: Garantir que as URLs inseridas sejam válidas, evitando que links inválidos sejam aceitos pelo formulário.
  
-* Correção de Erro 404:
-
-* Caminho de Acesso ao Formulário: Verificar e corrigir o caminho do formulário de cadastro de cursos para evitar o erro 404 (página não encontrada) ao tentar acessá-lo.
+* Correção de Erro 404: Caminho de Acesso ao Formulário: Verificar e corrigir o caminho do formulário de cadastro de cursos para evitar o erro 404 (página não encontrada) ao tentar acessá-lo.
 Melhoria na Visualização e Edição de Cursos:
 
 * Visualização de Informações: Implementar uma funcionalidade que permita a visualização das informações dos cursos cadastrados.
 * Edição de Cursos: Permitir que os cursos cadastrados possam ser editados diretamente pela interface do usuário.
 
-* Modal de Confirmação para Exclusão:
+* Modal de Confirmação para Exclusão: Confirmação de Exclusão: Adicionar um modal que solicite confirmação do usuário antes de excluir um curso, perguntando se ele realmente deseja realizar essa ação.
 
-- Confirmação de Exclusão: Adicionar um modal que solicite confirmação do usuário antes de excluir um curso, perguntando se ele realmente deseja realizar essa ação.
-
-* Correção de Erro 405:
-
- - Caminho do Botão de Exclusão: Verificar e corrigir o caminho do botão de excluir curso para evitar o erro 405 (método não permitido) ao tentar excluir um curso.
+* Correção de Erro 405: Caminho do Botão de Exclusão: Verificar e corrigir o caminho do botão de excluir curso para evitar o erro 405 (método não permitido) ao tentar excluir um curso.
 
 
 # Requisitos para Cadastro e Visualização de Cursos
